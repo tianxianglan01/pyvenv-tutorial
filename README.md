@@ -3,6 +3,7 @@
 ### Steps
 
 - See current python version
+
 python --version
 
 - create a venv directory where 'name' is what we want to name our venv
